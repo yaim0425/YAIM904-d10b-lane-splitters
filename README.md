@@ -34,12 +34,27 @@ No configuration is required. Place and use them like regular belt components.
 
 ## 🔗 Repository
 
-* GitHub: [https://github.com/yaim0425/YAIM0425-d10b-lane-splitters](https://github.com/yaim0425/YAIM0425-d10b-lane-splitters)
+**MOD**
+[YAIM0425 d10b Lane splitters](https://github.com/yaim0425/YAIM0425-d10b-lane-splitters)
+
+**Required**
+
+[YAIM0425 d00b Core](https://github.com/yaim0425/YAIM0425-d00b-core)
+
+---
+
+## ❤️ Support
+
+Suggestions, ideas, and balance feedback are welcome on the GitHub repository.
 
 ---
 
 ## 🖼️ Screenshots
 
-![Lane Splitter Screenshot 1](screenshot/\(1\).png)
+![Screenshot 1](https://github.com/yaim0425/YAIM0425-d10b-lane-splitters/raw/code/screenshot/(1).png)
 
----
+![Screenshot 2](https://github.com/yaim0425/YAIM0425-d10b-lane-splitters/raw/code/screenshot/(2).png)
+
+![Screenshot 3](https://github.com/yaim0425/YAIM0425-d10b-lane-splitters/raw/code/screenshot/(3).png)
+
+![Screenshot 4](https://github.com/yaim0425/YAIM0425-d10b-lane-splitters/raw/code/screenshot/(4).png)
