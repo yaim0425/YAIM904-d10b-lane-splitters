@@ -1,12 +1,12 @@
 {
-  "name": "YAIM0425-d10b-lane-splitters",
+  "name": "YAIM904-d10b-lane-splitters",
   "version": "0.0.1",
-  "title": "YAIM0425 d10b Lane splitters",
-  "author": "YAIM0425",
+  "title": "YAIM904 d10b Lane splitters",
+  "author": "YAIM904",
   "factorio_version": "2.0",
   "description": "Create dividers the size of a line. [[I accept suggestions]]",
-  "homepage": "https://github.com/yaim0425/YAIM0425-d10b-lane-splitters",
+  "homepage": "https://github.com/yaim0425/YAIM904-d10b-lane-splitters",
   "dependencies": [
-    "YAIM0425-d00b-core"
+    "YAIM904-d00b-core"
   ]
 }
