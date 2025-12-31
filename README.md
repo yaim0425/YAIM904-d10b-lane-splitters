@@ -1,8 +1,8 @@
-# YAIM0425 d10b – Lane Splitters ➗🛤️
+# YAIM904 d10b – Lane Splitters ➗🛤️
 
 ## 📦 Description
 
-**YAIM0425 d10b – Lane Splitters** adds compact splitters designed to work at the **lane level**, allowing precise control over item flow on belts.
+**YAIM904 d10b – Lane Splitters** adds compact splitters designed to work at the **lane level**, allowing precise control over item flow on belts.
 
 These splitters are **the size of a single lane**, making them ideal for tight builds, clean belt designs, and advanced routing where standard splitters are too large.
 
@@ -35,11 +35,11 @@ No configuration is required. Place and use them like regular belt components.
 ## 🔗 Repository
 
 **MOD**
-[YAIM0425 d10b Lane splitters](https://github.com/yaim0425/YAIM0425-d10b-lane-splitters)
+[YAIM904 d10b Lane splitters](https://github.com/yaim0425/YAIM904-d10b-lane-splitters)
 
 **Required**
 
-[YAIM0425 d00b Core](https://github.com/yaim0425/YAIM0425-d00b-core)
+[YAIM904 d00b Core](https://github.com/yaim0425/YAIM904-d00b-core)
 
 ---
 
@@ -51,10 +51,10 @@ Suggestions, ideas, and balance feedback are welcome on the GitHub repository.
 
 ## 🖼️ Screenshots
 
-![Screenshot 1](https://github.com/yaim0425/YAIM0425-d10b-lane-splitters/raw/code/screenshot/(1).png)
+![Screenshot 1](https://github.com/yaim0425/YAIM904-d10b-lane-splitters/raw/code/screenshot/(1).png)
 
-![Screenshot 2](https://github.com/yaim0425/YAIM0425-d10b-lane-splitters/raw/code/screenshot/(2).png)
+![Screenshot 2](https://github.com/yaim0425/YAIM904-d10b-lane-splitters/raw/code/screenshot/(2).png)
 
-![Screenshot 3](https://github.com/yaim0425/YAIM0425-d10b-lane-splitters/raw/code/screenshot/(3).png)
+![Screenshot 3](https://github.com/yaim0425/YAIM904-d10b-lane-splitters/raw/code/screenshot/(3).png)
 
-![Screenshot 4](https://github.com/yaim0425/YAIM0425-d10b-lane-splitters/raw/code/screenshot/(4).png)
+![Screenshot 4](https://github.com/yaim0425/YAIM904-d10b-lane-splitters/raw/code/screenshot/(4).png)
