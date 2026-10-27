@@ -1,12 +1,10 @@
 # YAIM904 d10b – Lane Splitters ➗🛤️
 
----
-
 ## 📦 Description
 
 **YAIM904 d10b – Lane Splitters** adds compact splitters designed to work at the **lane level**, allowing precise control over item flow on belts.
 
-These splitters are **the size of a single lane**, making them ideal for tight builds, clean belt designs and advanced routing where standard splitters are too large.
+These splitters are **the size of a single lane**, making them ideal for tight builds, clean belt designs, and advanced routing where standard splitters are too large.
 
 ---
 
@@ -47,7 +45,7 @@ No configuration is required. Place and use them like regular belt components.
 
 ## ❤️ Support
 
-Suggestions, ideas and balance feedback are welcome on the GitHub repository.
+Suggestions, ideas, and balance feedback are welcome on the GitHub repository.
 
 ---
 
