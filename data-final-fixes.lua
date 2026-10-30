@@ -98,6 +98,9 @@ function This_MOD.reference_values()
     This_MOD.new_subgroup = This_MOD.prefix .. This_MOD.name
     This_MOD.old_subgroup = GMOD.items["splitter"].subgroup
 
+    --- Puntos de referencia
+    This_MOD.splitter = "splitter"
+
     --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 end
 
@@ -133,7 +136,8 @@ function This_MOD.get_elements()
             GMOD.get_id_and_name(entity.name) or
             { ids = "-", name = entity.name }
 
-        local Name =
+        --- Validar si ya fue procesado
+       local Name =
             GMOD.name .. That_MOD.ids ..
             This_MOD.id .. "-" ..
             That_MOD.name
@@ -307,6 +311,7 @@ function This_MOD.create_entity(space)
 
     --- Elimnar propiedades inecesarias
     Entity.factoriopedia_simulation = nil
+    Entity.frozen_patch = nil
 
     --- Cambiar icono
     Entity.icons = GMOD.copy(space.item.icons)
@@ -324,8 +329,11 @@ function This_MOD.create_entity(space)
     for _, propiety in pairs({ "structure", "structure_patch" }) do
         for key, newTable in pairs(Entity[propiety] or {}) do
             local oldTable = This_MOD.lane_splitter[propiety][key] or {}
-            newTable.shift = oldTable.shift
-            newTable.scale = oldTable.scale
+            local tables = GMOD.get_tables(newTable, "shift")
+            for _, value in pairs(tables or {}) do
+                value.shift = oldTable.shift
+                value.scale = oldTable.scale
+            end
         end
     end
 
