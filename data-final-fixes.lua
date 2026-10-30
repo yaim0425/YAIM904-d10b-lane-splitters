@@ -98,9 +98,6 @@ function This_MOD.reference_values()
     This_MOD.new_subgroup = This_MOD.prefix .. This_MOD.name
     This_MOD.old_subgroup = GMOD.items["splitter"].subgroup
 
-    --- Puntos de referencia
-    This_MOD.splitter = "splitter"
-
     --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 end
 
@@ -136,8 +133,7 @@ function This_MOD.get_elements()
             GMOD.get_id_and_name(entity.name) or
             { ids = "-", name = entity.name }
 
-        --- Validar si ya fue procesado
-       local Name =
+        local Name =
             GMOD.name .. That_MOD.ids ..
             This_MOD.id .. "-" ..
             That_MOD.name
